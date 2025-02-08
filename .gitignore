@@ -133,4 +133,3 @@ dmypy.json
 cython_debug/
 
 # FastAPI
-*.db
